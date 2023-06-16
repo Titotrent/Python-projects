@@ -1,5 +1,5 @@
 # The code below allows the user to guess the programmers favourite color 3 times
-')favorite_color= "purple"
+favorite_color= "purple"
 guess_count=1
 guess_limit=3
 while guess_count<=guess_limit:
