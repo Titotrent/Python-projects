@@ -1,1 +1,1 @@
-# Python-projects;the beginners challenge
+# Python-projects
