@@ -1,6 +1,6 @@
 # The code below allows the user to guess the programmers favourite color 3 times
 favorite_color= "purple"
-guess_count=1
+guess_count=1 # start of the while loop
 guess_limit=3
 while guess_count<=guess_limit:
     guess=input('Guess my favorite color: ')
