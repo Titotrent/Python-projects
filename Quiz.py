@@ -12,7 +12,7 @@ if answer.lower()=='4':
     score+=2
 else:
     print('Incorrect')
-print('Qstn 2:What are two things you can never eat for breakfast? ')
+print('Qstn 2:What are two things you can never eat for breakfast?(include 'and' in your answer) ')
 answer=input('')
 if answer.lower()=='lunch and supper':
     print('Correct')
