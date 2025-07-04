@@ -2,7 +2,8 @@
 This Python script simulates a simple ATM withdrawal session, complete with input validation and user interaction.
 
 ### Description
-- The script allows a user to:
+The script allows a user to:
+
 - Enter their name to begin a withdrawal session.
 - Input a withdrawal amount.
 - Get real-time feedback and updated account balance.
@@ -10,10 +11,10 @@ This Python script simulates a simple ATM withdrawal session, complete with inpu
 
 It includes multiple validations to ensure input correctness, such as:
 
-1.Rejecting non-numeric inputs.
-2.Disallowing withdrawals of negative values.
-3.Ensuring the amount is a multiple of 100 (as with most ATMs).
-4.Preventing withdrawals that exceed the current balance.
+1. Rejecting non-numeric inputs.
+2. Disallowing withdrawals of negative values.
+3. Ensuring the amount is a multiple of 100 (as with most ATMs).
+4. Preventing withdrawals that exceed the current balance.
 
 ### Features
 - Continuous prompt until user exits.
